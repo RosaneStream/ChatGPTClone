@@ -1,0 +1,7 @@
+class inputPrompt{
+  constructor({prompt}){
+    this.prompt
+  }
+}
+
+module.exports = inputPrompt
